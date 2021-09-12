@@ -1,0 +1,642 @@
+[
+        {
+            "File Name": "0001-4",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "1.txt",
+            "xml-file": "0001-5.xml"
+        },
+        {
+            "File Name": "0002-6",
+            "Level of Profession": "Professor",
+            "First Language": "German",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "2.txt",
+            "xml-file": "0002-6.xml"
+        },
+        {
+            "File Name": "0003-4",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "French",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "3.txt",
+            "xml-file": "0003-4.xml"
+        },
+        {
+            "File Name": "0004-1",
+            "Level of Profession": "Professor",
+            "First Language": "Czech",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "4.txt",
+            "xml-file": "0004-1.xml"
+        },
+        {
+            "File Name": "0005-5",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "German",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "5.txt",
+            "xml-file": "0005-5.XML"
+        },
+        {
+            "File Name": "0006-4",
+            "Level of Profession": "Professor",
+            "First Language": "Italian",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "6.txt",
+            "xml-file": "0006-4.xml"
+        },
+        {
+            "File Name": "0007-2",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "German",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "7.txt",
+            "xml-file": "0007-2.xml"
+        },
+        {
+            "File Name": "0008-3",
+            "Level of Profession": "Professor",
+            "First Language": "Spanish",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "8.txt",
+            "xml-file": "0008-3.XML"
+        },
+        {
+            "File Name": "0009-3",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "9.txt",
+            "xml-file": "0009-3.xml"
+        },
+        {
+            "File Name": "0010-2",
+            "Level of Profession": "Professor",
+            "First Language": "Dutch",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "10.txt",
+            "xml-file": "0010-2.xml"
+        },
+        {
+            "File Name": "0011-5",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Indian",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "11.txt",
+            "xml-file": "0011-5.xml"
+        },
+        {
+            "File Name": "0012-3",
+            "Level of Profession": "Professor",
+            "First Language": "German American?",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "12.txt",
+            "xml-file": "0012-3.xml"
+        },
+        {
+            "File Name": "0013-4",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "German",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "13.txt",
+            "xml-file": "0013-4.XML"
+        },
+        {
+            "File Name": "0014-5",
+            "Level of Profession": "Professor",
+            "First Language": "Italian",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "14.txt",
+            "xml-file": "0014-5.XML"
+        },
+        {
+            "File Name": "0015-2",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Canadian",
+            "Speaker Background": "Native English Speaker",
+            "txt-file": "15.txt",
+            "xml-file": "0015-2.xml"
+        },
+        {
+            "File Name": "0016-7",
+            "Level of Profession": "Professor",
+            "First Language": "American",
+            "Speaker Background": "Native English Speaker",
+            "txt-file": "16.txt",
+            "xml-file": "0016-7.xml"
+        },
+        {
+            "File Name": "0017-3",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "British",
+            "Speaker Background": "Native English Speaker",
+            "txt-file": "17.txt",
+            "xml-file": "0017-3.xml"
+        },
+        {
+            "File Name": "0018-7",
+            "Level of Profession": "Professor",
+            "First Language": "American",
+            "Speaker Background": "Native English Speaker",
+            "txt-file": "18.txt",
+            "xml-file": "0018-7.xml"
+        },
+        {
+            "File Name": "0019-3",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "American",
+            "Speaker Background": "Native English Speaker",
+            "txt-file": "19.txt",
+            "xml-file": "0019-3.XML"
+        },
+        {
+            "File Name": "0020-6",
+            "Level of Profession": "Professor",
+            "First Language": "Irish",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "20.txt",
+            "xml-file": "0020-6.XML"
+        },
+        {
+            "File Name": "0021-2",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Indian",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "21.txt",
+            "xml-file": "0021-2.xml"
+        },
+        {
+            "File Name": "0022-3",
+            "Level of Profession": "Professor",
+            "First Language": "Greek",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "22.txt",
+            "xml-file": "0022-3.XML"
+        },
+        {
+            "File Name": "0023-3",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Indian",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "23.txt",
+            "xml-file": "0023-3.xml"
+        },
+        {
+            "File Name": "0024-12",
+            "Level of Profession": "Professor",
+            "First Language": "Indian",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "24.txt",
+            "xml-file": "0024-12.XML"
+        },
+        {
+            "File Name": "0025-10",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "25.txt",
+            "xml-file": "0025-10.xml"
+        },
+        {
+            "File Name": "0026-3",
+            "Level of Profession": "Professor",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "26.txt",
+            "xml-file": "0026-3.xml"
+        },
+        {
+            "File Name": "0027-2",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "27.txt",
+            "xml-file": "0027-2.xml"
+        },
+        {
+            "File Name": "0028-14",
+            "Level of Profession": "Professor",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "28.txt",
+            "xml-file": "0028-14.XML"
+        },
+        {
+            "File Name": "0029-2",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "29.txt",
+            "xml-file": "0029-2.XML"
+        },
+        {
+            "File Name": "0030-9",
+            "Level of Profession": "Professor",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "30.txt",
+            "xml-file": "0030-9.xml"
+        },
+        {
+            "File Name": "0031-1",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "31.txt",
+            "xml-file": "0031-1.xml"
+        },
+        {
+            "File Name": "0032-4",
+            "Level of Profession": "Professor",
+            "First Language": "Dutch",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "32.txt",
+            "xml-file": "0032-4.xml"
+        },
+        {
+            "File Name": "0033-10",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "French",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "33.txt",
+            "xml-file": "0033-10.xml"
+        },
+        {
+            "File Name": "0034-6",
+            "Level of Profession": "Professor",
+            "First Language": "Dutch",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "34.txt",
+            "xml-file": "0034-6.XML"
+        },
+        {
+            "File Name": "0035-4",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "German",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "35.txt",
+            "xml-file": "0035-4.XML"
+        },
+        {
+            "File Name": "0036-4",
+            "Level of Profession": "Professor",
+            "First Language": "Italian",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "36.txt",
+            "xml-file": "0036-4.xml"
+        },
+        {
+            "File Name": "0037-4",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "German",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "37.txt",
+            "xml-file": "0037-4.xml"
+        },
+        {
+            "File Name": "0038-6",
+            "Level of Profession": "Professor",
+            "First Language": "Italian",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "38.txt",
+            "xml-file": "0038-6.xml"
+        },
+        {
+            "File Name": "0039-5",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Fench",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "39.txt",
+            "xml-file": "0039-5.xml"
+        },
+        {
+            "File Name": "0040-10",
+            "Level of Profession": "Professor",
+            "First Language": "German",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "40.txt",
+            "xml-file": "0040-10.XML"
+        },
+        {
+            "File Name": "0041-9",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Indian",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "41.txt",
+            "xml-file": "0041-9.xml"
+        },
+        {
+            "File Name": "0042-2",
+            "Level of Profession": "Professor",
+            "First Language": "Indian",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "42.txt",
+            "xml-file": "0042-2.xml"
+        },
+        {
+            "File Name": "0043-5",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "43.txt",
+            "xml-file": "0043-5.xml"
+        },
+        {
+            "File Name": "0044-3",
+            "Level of Profession": "Professor",
+            "First Language": "French",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "44.txt",
+            "xml-file": "0044-3.xml"
+        },
+        {
+            "File Name": "0045-3",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "45.txt",
+            "xml-file": "0045-3.xml"
+        },
+        {
+            "File Name": "0046-2",
+            "Level of Profession": "Professor",
+            "First Language": "British",
+            "Speaker Background": "Native English Speaker",
+            "txt-file": "46.txt",
+            "xml-file": "0046-2.xml"
+        },
+        {
+            "File Name": "0047-3",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Japanese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "47.txt",
+            "xml-file": "0047-3.xml"
+        },
+        {
+            "File Name": "0048-2",
+            "Level of Profession": "Professor",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "48.txt",
+            "xml-file": "0048-2.xml"
+        },
+        {
+            "File Name": "0049-4",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Israel",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "49.txt",
+            "xml-file": "0049-4.xml"
+        },
+        {
+            "File Name": "0050-6",
+            "Level of Profession": "Professor",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "50.txt",
+            "xml-file": "0050-6.xml"
+        },
+        {
+            "File Name": "0051-2",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "German",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "51.txt",
+            "xml-file": "0051-2.xml"
+        },
+        {
+            "File Name": "0052-4",
+            "Level of Profession": "Professor",
+            "First Language": "German",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "52.txt",
+            "xml-file": "0052-4.xml"
+        },
+        {
+            "File Name": "0053-2",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Korean",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "53.txt",
+            "xml-file": "0053-2.xml"
+        },
+        {
+            "File Name": "0054-2",
+            "Level of Profession": "Professor",
+            "First Language": "muslim",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "54.txt",
+            "xml-file": "0054-2.XML"
+        },
+        {
+            "File Name": "0055-3",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Korean",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "55.txt",
+            "xml-file": "0055-3.XML"
+        },
+        {
+            "File Name": "0056-3",
+            "Level of Profession": "Professor",
+            "First Language": "American",
+            "Speaker Background": "Native English Speaker",
+            "txt-file": "56.txt",
+            "xml-file": "0056-3.xml"
+        },
+        {
+            "File Name": "0057-1",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "57.txt",
+            "xml-file": "0057-1.xml"
+        },
+        {
+            "File Name": "0058-2",
+            "Level of Profession": "Professor",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "58.txt",
+            "xml-file": "0058-2.xml"
+        },
+        {
+            "File Name": "0059-1",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Arabic",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "59.txt",
+            "xml-file": "0059-1.xml"
+        },
+        {
+            "File Name": "0060-2",
+            "Level of Profession": "Professor",
+            "First Language": "French",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "60.txt",
+            "xml-file": "0060-2.xml"
+        },
+        {
+            "File Name": "0061-3",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "61.txt",
+            "xml-file": "0061-3.XML"
+        },
+        {
+            "File Name": "0062-1",
+            "Level of Profession": "Professor",
+            "First Language": "French",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "62.txt",
+            "xml-file": "0062-1.xml"
+        },
+        {
+            "File Name": "0063-2",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "63.txt",
+            "xml-file": "0063-2.xml"
+        },
+        {
+            "File Name": "0064-2",
+            "Level of Profession": "Professor",
+            "First Language": "Chinese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "64.txt",
+            "xml-file": "0064-2.xml"
+        },
+        {
+            "File Name": "0065-3",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Mexican",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "65.txt",
+            "xml-file": "0065-3.XML"
+        },
+        {
+            "File Name": "0066-4",
+            "Level of Profession": "Professor",
+            "First Language": "Indonesia",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "66.txt",
+            "xml-file": "0066-4.xml"
+        },
+        {
+            "File Name": "0067-3",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "British",
+            "Speaker Background": "Native English Speaker",
+            "txt-file": "67.txt",
+            "xml-file": "0067-3.XML"
+        },
+        {
+            "File Name": "0068-7",
+            "Level of Profession": "Professor",
+            "First Language": "American",
+            "Speaker Background": "Native English Speaker",
+            "txt-file": "68.txt",
+            "xml-file": "0068-7.xml"
+        },
+        {
+            "File Name": "0069-4",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Finnish",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "69.txt",
+            "xml-file": "0069-4.xml"
+        },
+        {
+            "File Name": "0070-4",
+            "Level of Profession": "Professor",
+            "First Language": "Japanese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "70.txt",
+            "xml-file": "0070-4.xml"
+        },
+        {
+            "File Name": "0071-7",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "British",
+            "Speaker Background": "Native English Speaker",
+            "txt-file": "71.txt",
+            "xml-file": "0071-7.XML"
+        },
+        {
+            "File Name": "0072-5",
+            "Level of Profession": "Professor",
+            "First Language": "British",
+            "Speaker Background": "Native English Speaker",
+            "txt-file": "72.txt",
+            "xml-file": "0072-5.XML"
+        },
+        {
+            "File Name": "0073-3",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Italian",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "73.txt",
+            "xml-file": "0073-3.XML"
+        },
+        {
+            "File Name": "0074-3",
+            "Level of Profession": "Professor",
+            "First Language": "French",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "74.txt",
+            "xml-file": "0074-3.xml"
+        },
+        {
+            "File Name": "0075-6",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "American",
+            "Speaker Background": "Native English Speaker",
+            "txt-file": "75.txt",
+            "xml-file": "0075-6.xml"
+        },
+        {
+            "File Name": "0076-4",
+            "Level of Profession": "Professor",
+            "First Language": "British",
+            "Speaker Background": "Native English Speaker",
+            "txt-file": "76.txt",
+            "xml-file": "0076-4.xml"
+        },
+        {
+            "File Name": "0077-2",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "American",
+            "Speaker Background": "Native English Speaker",
+            "txt-file": "77.txt",
+            "xml-file": "0077-2.xml"
+        },
+        {
+            "File Name": "0078-12",
+            "Level of Profession": "Professor",
+            "First Language": "American",
+            "Speaker Background": "Native English Speaker",
+            "txt-file": "78.txt",
+            "xml-file": "0078-12.xml"
+        },
+        {
+            "File Name": "0079-4",
+            "Level of Profession": "Ph.D. Researcher",
+            "First Language": "Italian",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "79.txt",
+            "xml-file": "0079-4.xml"
+        },
+        {
+            "File Name": "0080-3",
+            "Level of Profession": "Professor",
+            "First Language": "Portuguese",
+            "Speaker Background": "Non-Native English Speaker",
+            "txt-file": "80.txt",
+            "xml-file": "0080-3.xml"
+        }
+    ]

@@ -1,0 +1,39 @@
+
+footer{
+  background-color: #FF4F5A;
+  color:white;
+  width: 100%;
+  overflow-x: hidden;
+}
+footer a{
+  color: #fff;
+}
+.icons{
+  margin-top: .2vw;
+}
+.infoTags{
+    margin-bottom: 2vw;
+}
+.ft{
+  padding-top: 2vw;
+  overflow-x:hidden;
+}
+.icons a{
+  margin-right: 1vw;
+  text-decoration-color: white;
+}
+.footIncon{
+    color: white!important;
+
+}
+@media (max-width: 576px) {
+  .fa-2x{
+    font-size: 3vh;
+  }
+  #loc{
+    src:url('https://maps.app.goo.gl/R92BtwUxjsjEgb589');
+  }
+  footer .row p{
+    font-size: 2vh;
+  }
+}

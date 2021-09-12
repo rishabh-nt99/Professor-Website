@@ -1,0 +1,29 @@
+.navbar{
+  box-shadow: 0 5px 10px #efefef;
+  margin:1vw;
+}
+.footer .row{
+}
+.mid_val{
+  color:#FF4F5A;
+}
+.logo{
+  width: 100px;
+}
+.fa.fa-phone-square{
+    color:#FF4F5A;
+}
+.fa.fa-envelope{
+    color:#FF4F5A;
+}
+.fa.fa-map-marker{
+    color:#FF4F5A;
+}
+
+.nav-link.dropdown-toggle{
+    color:#FF4F5A;
+}
+
+#navbarDropdownMenuLink{
+  color:#FF4F5A;
+}

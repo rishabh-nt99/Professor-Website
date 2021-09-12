@@ -1,0 +1,61 @@
+*{
+  font-family: 'Poppins';
+  padding:0;
+  margin:0;
+}
+
+.row.my-row2{
+
+  margin-bottom: 2vh;
+  text-align: justify;
+  text-justify: inter-word;
+
+}
+
+.cont{
+  list-style: none;
+  padding: 4vw;
+  padding-left: 6vw;
+  padding-top: 2vw;
+}
+.content_box{
+  box-shadow: 0 12px 24px grey;
+}
+.cont li:before {
+  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #FF4F5A; /* Change the color */
+  font-size: 170%;
+  font-weight: lighter;; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+
+.row.my-row1{
+  color: black;
+  margin-top: 6vh;
+  margin-bottom: 6vh;
+  overflow-y: hidden;
+}
+
+@media (max-width: 576px) {
+  .row.my-row2{
+    margin-left:0;
+    margin-right: 0;
+    padding: 0px;
+  }
+  .content_box{
+    box-shadow: none;
+    margin-left:2%;
+    margin-right:2%;
+    padding: 0;
+  }
+  .col.my-col1{
+    margin:0;
+    padding: 0;
+  }
+  .cont li:before {
+    display: inline-block; /* Needed to add space between the bullet and the text */
+    width: .7em; /* Also needed for space (tweak if needed) */
+  }
+}

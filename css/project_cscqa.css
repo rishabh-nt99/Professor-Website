@@ -1,0 +1,8 @@
+#downloadbox{
+  display: none;
+}
+@media (max-width: 576px) {
+  .pic img{
+    content: url('../images/corpus_cropped.png');
+  }
+}

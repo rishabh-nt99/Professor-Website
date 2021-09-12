@@ -1,0 +1,357 @@
+[
+        {
+            "rating": "high",
+            "txt": "0001-11.3.txt",
+            "xml": "0001-11.3.xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-11.txt",
+            "xml": "0001-11.xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-12.19.txt",
+            "xml": "0001-12.19 .xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-13.42.txt",
+            "xml": "0001-13.42 .xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-14.20.txt",
+            "xml": "0001-14. 20 .xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-16.12.txt",
+            "xml": "0001-16.12.xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-17.39.txt",
+            "xml": "0001-17.39 .xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-18.txt",
+            "xml": "0001-18.xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-2.28.txt",
+            "xml": "0001-2.28 .xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-2.txt",
+            "xml": "0001-2.xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-20.05.txt",
+            "xml": "0001-20.05 .xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-3.55.txt",
+            "xml": "0001-3.55 .xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-4.12.txt",
+            "xml": "0001-4.12.xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-4.16.txt",
+            "xml": "0001-4.16 .xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-4.22.txt",
+            "xml": "0001-4.22 .xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-5.38.txt",
+            "xml": "0001-5.38.xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-6.txt",
+            "xml": "0001-6.xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-7.16.txt",
+            "xml": "0001-7.16 .xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-7.48.txt",
+            "xml": "0001-7.48 .xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-7.txt",
+            "xml": "0001-7.xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-8.16.txt",
+            "xml": "0001-8.16 .xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-8.25.txt",
+            "xml": "0001-8.25.xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-8.txt",
+            "xml": "0001-8.xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-9.35.txt",
+            "xml": "0001-9.35 .xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-9.56.txt",
+            "xml": "0001-9.56 .xml"
+        },
+        {
+            "rating": "high",
+            "txt": "0001-9.txt",
+            "xml": "0001-9.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0002-11.txt",
+            "xml": "0002-11.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0002-16.txt",
+            "xml": "0002-16.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0002-3.txt",
+            "xml": "0002-3.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0002-4.txt",
+            "xml": "0002-4.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0002-5-2.txt",
+            "xml": "0002-5-2.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0002-5.txt",
+            "xml": "0002-5.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0002-6.txt",
+            "xml": "0002-6.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-07.txt",
+            "xml": "0003-11.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-11.txt",
+            "xml": "0003-3.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-3.txt",
+            "xml": "0003-4.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-4.txt",
+            "xml": "0003-4(2).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-4(2).txt",
+            "xml": "0003-4(3).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-4(3).txt",
+            "xml": "0003-4(4).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-4(4).txt",
+            "xml": "0003-4(5).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-4(5).txt",
+            "xml": "0003-5.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-5.txt",
+            "xml": "0003-5(2).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-5(2).txt",
+            "xml": "0003-6.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-6.txt",
+            "xml": "0003-6(2).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-6(2).txt",
+            "xml": "0003-7.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-7(2).txt",
+            "xml": "0003-7(2).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-7(3).txt",
+            "xml": "0003-7(3).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-8.txt",
+            "xml": "0003-8.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-8(2).txt",
+            "xml": "0003-8(2).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-8(3).txt",
+            "xml": "0003-8(3).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-8(4).txt",
+            "xml": "0003-8(4).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0003-9.txt",
+            "xml": "0003-9.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0004-1.txt",
+            "xml": "0004-1.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0004-2.txt",
+            "xml": "0004-2.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0004-2(2).txt",
+            "xml": "0004-2(2).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0004-2(3).txt",
+            "xml": "0004-2(3).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0004-2(4).txt",
+            "xml": "0004-2(4).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0004-2(5).txt",
+            "xml": "0004-2(5).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0004-3.txt",
+            "xml": "0004-3.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0004-4.txt",
+            "xml": "0004-4.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0004-4(2).txt",
+            "xml": "0004-4(2).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0005-1.txt",
+            "xml": "0005-1.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0005-10.txt",
+            "xml": "0005-10.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0005-10(2).txt",
+            "xml": "0005-10(2).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0005-10(3).txt",
+            "xml": "0005-10(3).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0005-2.txt",
+            "xml": "0005-2.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0005-2(2).txt",
+            "xml": "0005-2(2).xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0005-5.txt",
+            "xml": "0005-5.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0005-7.txt",
+            "xml": "0005-7.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0005-8.txt",
+            "xml": "0005-8.xml"
+        },
+        {
+            "rating": "low",
+            "txt": "0005-8(2).txt",
+            "xml": "0005-8(2).xml"
+        }
+]
